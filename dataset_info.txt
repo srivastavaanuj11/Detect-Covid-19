@@ -1,0 +1,6 @@
+The COVID-19 X-ray image dataset we’ll be using was curated by Dr. Joseph Cohen, a postdoctoral fellow at the University of Montreal.
+Dr. Cohen started collecting X-ray images of COVID-19 cases and publishing them in the following GitHub repo.
+https://github.com/ieee8023/covid-chestxray-dataset
+
+X-ray images of healthy patients was taken from Kaggle’s Chest X-Ray Images (Pneumonia) dataset and was used to sample 25 X-ray images from healthy patients.
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
